@@ -1,0 +1,1 @@
+{"name":"removeTodo4444","type":"function","source":{"https":"https://github.com/uttahb/removeTodo4444","ssh":"git@github.com:uttahb/removeTodo4444.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlock":false}
